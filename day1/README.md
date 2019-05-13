@@ -2,28 +2,20 @@
 
 ## Exercise sessions
 
-### Exercise 1
-
-Introduction to Notebooks, Python, and numpy.
+### Exercise 1: Introduction to Notebooks, Python, and numpy
 
 * *python-introduction/notebooks/examples/1 - Introduction.ipynb*
 * *python-introduction/notebooks/examples/7 - NumPy.ipynb*
 
-### Exercise 2
-
-Linear classifiers.
+### Exercise 2: Linear classifiers
 
 * *sklearn-mnist-xxx.ipynb*
 
-### Exercise 3
-
-Nearest neighbor classifiers
+### Exercise 3: Nearest neighbor classifiers
 
 * *sklearn-mnist-nn.ipynb*
 
-### Exercise 4
-
-Regression
+### Exercise 4: Regression
 
 * *sklearn-chd-lr.ipynb*
 
