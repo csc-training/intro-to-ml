@@ -50,4 +50,4 @@ We will use Jupyter Notebooks for all exercises. There are several ways to set u
 
 If you have a laptop that has both jupyter and the other necessary python packages installed, it is possible to use it.
 
-    `git clone https://github.com/csc-training/intro-to-ml`   
+    git clone https://github.com/csc-training/intro-to-ml
