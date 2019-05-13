@@ -6,7 +6,8 @@
 
 Introduction to Notebooks, Python, and numpy.
 
-* 
+* *python-introduction/notebooks/examples/1 - Introduction.ipynb*
+* *python-introduction/notebooks/examples/7 - NumPy.ipynb*
 
 ### Exercise 2
 
