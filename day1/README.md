@@ -9,7 +9,7 @@
 
 ### Exercise 2: Linear classifiers
 
-* *sklearn-mnist-xxx.ipynb*
+* *sklearn-mnist-lc.ipynb*
 
 ### Exercise 3: Nearest neighbor classifiers
 
