@@ -25,3 +25,7 @@
 ### Exercise 9: Clustering and anomaly detection
 
 * *sklearn-mnist-ul.ipynb*
+
+### Extra: Ensemble classifiers
+
+* *sklearn-mnist-ens.ipynb*
