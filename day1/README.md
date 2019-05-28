@@ -44,9 +44,9 @@ We will use Jupyter Notebooks for all exercises. There are several ways to set u
     
 ### 2. Running Jupyter on your laptop
 
-If you have a laptop that has jupyter, scikit-learn, and all the other necessary Python packages installed, it is possible to use it. Clone the Git repositories used on this course
+If you have a laptop that has Jupyter, Scikit-learn, and all the other necessary Python packages installed, it is possible to use it. Clone the Git repositories used on this course
 
     git clone https://github.com/csc-training/python-introduction
     git clone https://github.com/csc-training/intro-to-ml
     
-and launch jupyter.
+and launch Jupyter.
