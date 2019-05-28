@@ -7,7 +7,10 @@ cd /home/jovyan
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 
+git clone https://github.com/csc-training/python-introduction
 git clone https://github.com/csc-training/intro-to-ml
 
 rmdir work
 rm get-started.bash
+
+pip install ipython --upgrade
