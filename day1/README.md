@@ -19,6 +19,10 @@
 
 * *sklearn-chd-lr.ipynb*
 
+### Extra: Naive Bayes
+
+* *sklearn-mnist-nb.ipynb*
+
 ## Setup
 
 We will use Jupyter Notebooks for all exercises. There are several ways to set up a Jupyter environment for running the exercises:
