@@ -19,6 +19,10 @@
 
 * *sklearn-chd-lr.ipynb*
 
+### Extra: Naive Bayes
+
+* *sklearn-mnist-nb.ipynb*
+
 ## Setup
 
 We will use Jupyter Notebooks for all exercises. There are several ways to set up a Jupyter environment for running the exercises:
@@ -28,13 +32,13 @@ We will use Jupyter Notebooks for all exercises. There are several ways to set u
 *The default option.* CSC’s Notebooks (https://notebooks.csc.fi) provides easy-to-use environments for working with data and programming. You can access everything via your web browser and CSC cloud environment computes on the background.
 
 * Point your browser to https://notebooks.csc.fi
-* Login using Alternate login
-* Find *Course Practical Machine Learning* and click “Launch new”
+* Login using Haka (or using Alternate login and a separate username and password) 
+* Find *Course Practical Machine Learning 2019* and click “Launch new”
 * Wait until the “Open in browser” link appears, then click on it
-* The jupyter notebook dashboard should appear
-* Navigate to `intro-to-ml/day1` 
+* The jupyterlab notebook dashboard should appear
+* Navigate to `python-introduction/notebooks/examples` 
 * if you are not familiar with Jupyter, take a moment to get to know the interface
-    * open a new notebook (*New* -> *Python 3*, located top-right on the dashboard) 
+    * open a new notebook using the Launcher (click on *Notebook: Python 3*) 
     * write some Python code to a Jupyter *cell*
     * execute the cell with *shift-enter*
     
