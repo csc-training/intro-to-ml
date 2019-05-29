@@ -26,6 +26,10 @@
 
 * *sklearn-mnist-ul.ipynb*
 
+### Extra: Hyperparameter grid search
+
+* *sklearn-mnist-grid.ipynb*
+
 ### Extra: Ensemble classifiers
 
 * *sklearn-mnist-ens.ipynb*
