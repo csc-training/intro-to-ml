@@ -13,4 +13,5 @@ git clone https://github.com/csc-training/intro-to-ml
 rmdir work
 rm get-started.bash
 
-pip install ipython --upgrade
+# pip install ipython --upgrade
+pip install xgboost scikit-image
