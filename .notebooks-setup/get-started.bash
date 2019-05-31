@@ -14,4 +14,4 @@ rmdir work
 rm get-started.bash
 
 # pip install ipython --upgrade
-pip install xgboost scikit-image
+pip install xgboost scikit-image graphviz
