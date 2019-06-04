@@ -56,14 +56,20 @@ def get_mnist_dataset(directory, images_file, labels_file):
     return (images, labels)
 
 
-def get_mnist(directory):
+def get_mnist(directory, labels_as_strings=True, flatten=True):
     X_train, y_train = get_mnist_dataset(directory, 'train-images-idx3-ubyte',
                                          'train-labels-idx1-ubyte')
     X_test, y_test = get_mnist_dataset(directory, 't10k-images-idx3-ubyte',
                                        't10k-labels-idx1-ubyte')
+    if labels_as_strings:
+        y_train = y_train.astype(np.str)
+        y_test = y_test.astype(np.str)
 
-    return (X_train.astype(np.float64).reshape(-1, 28*28), y_train.astype(np.str),
-            X_test.astype(np.float64).reshape(-1, 28*28), y_test.astype(np.str))
+    if flatten:
+        X_train = X_train.astype(np.float64).reshape(-1, 28*28)
+        X_test = X_test.astype(np.float64).reshape(-1, 28*28)
+
+    return (X_train, y_train, X_test, y_test)
 
 
 if __name__ == '__main__':
