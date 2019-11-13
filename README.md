@@ -5,7 +5,7 @@ See [SETUP.md](SETUP.md) for instructions on how to set up Notebooks.
 
 ## Exercises
 
-* [Exercise 01](Exercise-01.ipynb): Introduction to Notebooks, Python, and numpy
+* Exercise 01: [Introduction to Notebooks, Python](https://github.com/csc-training/python-introduction/blob/gh-pages/notebooks/examples/1%20-%20Introduction.ipynb), and [numpy](https://github.com/csc-training/python-introduction/blob/gh-pages/notebooks/examples/7%20-%20NumPy.ipynb)
 * [Exercise 02](Exercise-02.ipynb): Linear classifiers
 * [Exercise 03](Exercise-03.ipynb): Nearest neighbor classifiers
 * [Exercise 04](Exercise-04.ipynb): Linear and polynomial regression
