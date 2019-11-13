@@ -6,22 +6,22 @@ See [SETUP.md](SETUP.md) for instructions on how to set up Notebooks.
 ## Exercises
 
 * Exercise 01: [Introduction to Notebooks, Python](https://github.com/csc-training/python-introduction/blob/gh-pages/notebooks/examples/1%20-%20Introduction.ipynb), and [numpy](https://github.com/csc-training/python-introduction/blob/gh-pages/notebooks/examples/7%20-%20NumPy.ipynb)
-* [Exercise 02](Exercise-02.ipynb): Linear classifiers
-* [Exercise 03](Exercise-03.ipynb): Nearest neighbor classifiers
-* [Exercise 04](Exercise-04.ipynb): Linear and polynomial regression
-* [Exercise 05](Exercise-05.ipynb): Classification with SVMs
-* [Exercise 06](Exercise-06.ipynb): Regression with SVMs
-* [Exercise 07](Exercise-07.ipynb): Classification with decision trees
-* [Exercise 08](Exercise-08.ipynb): Regression with decision trees
-* [Exercise 09](Exercise-09.ipynb): Classification with neural networks
-* [Exercise 10](Exercise-10.ipynb): Regression with neural networks
-* [Exercise 11](Exercise-11.ipynb): Dimensionality reduction
-* [Exercise 12](Exercise-12.ipynb): Data visualization
-* [Exercise 13](Exercise-13.ipynb): Clustering
-* [Exercise 14](Exercise-14.ipynb): Anomaly detection
+* Exercise 02: [Linear classifiers](Exercise-02.ipynb)
+* Exercise 03: [Nearest neighbor classifiers](Exercise-03.ipynb)
+* Exercise 04: [Linear and polynomial regression](Exercise-04.ipynb)
+* Exercise 05: [Classification with SVMs](Exercise-05.ipynb)
+* Exercise 06: [Regression with SVMs](Exercise-06.ipynb)
+* Exercise 07: [Classification with decision trees](Exercise-07.ipynb)
+* Exercise 08: [Regression with decision trees](Exercise-08.ipynb)
+* Exercise 09: [Classification with neural networks](Exercise-09.ipynb)
+* Exercise 10: [Regression with neural networks](Exercise-10.ipynb)
+* Exercise 11: [Dimensionality reduction](Exercise-11.ipynb)
+* Exercise 12: [Data visualization](Exercise-12.ipynb)
+* Exercise 13: [Clustering](Exercise-13.ipynb)
+* Exercise 14: [Anomaly detection](Exercise-14.ipynb)
 
 ## Extra
 
-* [Extra 01](Extra-01.ipynb): Classification with naive Bayes
-* [Extra 02](Extra-02.ipynb): Parameter grid search for SVM classification
-* [Extra 03](Extra-03.ipynb): Ensemble of classifiers
+* Extra 01: [Classification with naive Bayes](Extra-01.ipynb)
+* Extra 02: [Parameter grid search for SVM classification](Extra-02.ipynb)
+* Extra 03: [Ensemble of classifiers](Extra-03.ipynb)
