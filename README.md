@@ -1,7 +1,7 @@
 # intro-to-ml [![Gitter chat](https://badges.gitter.im/csc_training/intro-to-ml.svg)](https://gitter.im/csc_training/intro-to-ml)
 Exercises for [CSC](https://www.csc.fi/)'s Practical Machine Learning course
 
-See [SETUP.pm](SETUP.pm) for instructions on how to set up Notebooks.
+See [SETUP.md](SETUP.md) for instructions on how to set up Notebooks.
 
 ## Exercises
 
